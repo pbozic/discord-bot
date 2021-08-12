@@ -1,0 +1,31 @@
+[
+    {
+        "command": "spell",
+        "name": "Spell info",
+        "description": "Grabs description for the provided spell.",
+        "usage": "!spell Frost Nova",
+        "function": "getEntityInfo",
+        "alias": ["s"]
+    },
+    {
+        "command": "item",
+        "name": "Item info",
+        "description": "Grabs description for the provided item.",
+        "usage": "!item Linen Cloth",
+        "function": "getEntityInfo"
+    },
+    {
+        "command": "talent",
+        "name": "Talent info",
+        "description": "Grabs description for the provided talent.",
+        "usage": "!talent Chaos Blades",
+        "function": "getEntityInfo"
+    },
+    {
+        "command": "patchnotes",
+        "name": "Patch Notes",
+        "description": "Replies you with the link of the latest patch notes.",
+        "function": "latestPatchNotes",
+        "alias": ["pn", "patch"]
+    }
+]

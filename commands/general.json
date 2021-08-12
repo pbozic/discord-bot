@@ -1,0 +1,123 @@
+[
+    {
+        "command": "help",
+        "description": "Displays description about command",
+        "usage": "!help help",
+        "function": "executeHelp",
+        "alias": ["h"]
+    },
+    {
+        "command": "nigger",
+        "description": "Meme",
+        "files": "https://media.discordapp.net/attachments/774028676374593536/777261131223269396/558dd9d0c16c3.jpeg"
+    },
+    {
+        "command": "sapbait",
+        "description": "Meme",
+        "files": "https://i.imgur.com/IWotadS.png"
+    },
+    {
+        "command": "gold4",
+        "description": "Meme",
+        "files": "https://i.imgur.com/tuQkDKM.png"
+    },
+    {
+        "command": "english",
+        "description": "Meme",
+        "message": "Do you?",
+        "files": "https://i.imgur.com/Bm1lw3F.png"
+    },
+    {
+        "command": "fuck",
+        "description": "Meme",
+        "files": "https://i.ibb.co/nnkQbnM/fuck.png"
+    },
+    {
+        "command": "2004",
+        "description": "Meme",
+        "files": "https://i.imgur.com/Y3Cdrp4.png"
+    },
+    {
+        "command": "black",
+        "description": "Meme",
+        "files": "https://i.imgur.com/6ByXm3T.png"
+    },
+    {
+        "command": "lith",
+        "description": "Meme",
+        "files": "https://i.imgur.com/7N0rFkI.png"
+    },
+    {
+        "command": "kolka",
+        "description": "Meme",
+        "files": "https://i.imgur.com/absFV4s.png"
+    },
+    {
+        "command": "terradrunk",
+        "description": "Meme",
+        "files": "https://i.imgur.com/AVDYruI.png"
+    },
+    {
+        "command": "snowflake",
+        "description": "Meme",
+        "files": "https://i.imgur.com/0jrIJWS.png"
+    },
+    {
+        "command": "multiplepersonalitydisorder",
+        "description": "Meme",
+        "files": "https://i.imgur.com/vkoghds.png",
+        "alias": ["personality", "mpd"]
+    },
+    {
+        "command": "purge",
+        "description": "Deletes specified amount of messages in the channel.",
+        "function": "executePurge",
+        "usage": "'!purge 10' will delete last 10 messages"
+    },
+    {
+        "command": "ping",
+        "description": "Checks bot delay",
+        "function": "executePing",
+        "usage": "'!ping"
+    },
+    {
+        "command": "commands",
+        "description": "All the commands",
+        "function": "executeListCommands"
+    },
+    {
+        "command": "dumbliar", 
+        "description": "Meme", 
+        "message": "Kyin for president", 
+        "files": "https://imgur.com/a/pAF2tZq",
+        "alias": ["dbl"] 
+    },
+    {
+        "command": "amr4s", 
+        "description": "Meme", 
+        "files": "https://i.imgur.com/Ki0Hh1p.png"
+    },
+    {
+        "command": "mozgus", 
+        "description": "Meme", 
+        "message": "it do be like that sometimes", 
+        "files": "https://i.imgur.com/j7wQxQ3.png",
+        "alias": ["mozg"] 
+    },
+    {
+        "command": "roll", 
+        "description": "Meme", 
+        "files": "https://i.imgur.com/LaAP611.png"
+    },
+    {
+        "command": "retardbear", 
+        "description": "Meme", 
+        "files": "https://media1.tenor.com/images/18d6edeee472be9085c2e9751b25f37c/tenor.gif"
+    },
+    {
+        "command": "bettergm", 
+        "description": "Meme", 
+        "files": "https://i.imgur.com/PcZqhO3.png"
+       
+    }
+]

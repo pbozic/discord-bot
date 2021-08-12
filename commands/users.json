@@ -1,0 +1,16 @@
+[
+    {
+        "command": "terrabeingabitch",
+        "description": "Help us help Terra",
+        "alias": ["tbab"],
+        "function": "executeTerra",
+        "usage": "!terrabeingabitch yes|no|status"
+    },
+    {
+        "command": "ruderaysio",
+        "description": "Help us clam Raysio down",
+        "alias": ["rr"],
+        "function": "executeRaysio",
+        "usage": "!ruderaysio yes|no|status"
+    }
+]
